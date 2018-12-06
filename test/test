@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+<!--
+    New Perspectives on HTML5 and CSS3, 7th Edition
+    Tutorial 1
+    Case Problem 1
+    Jacobs Tree Care Services
+    Author:
+    Date:
+    Filename: jtc_services.html
+	-->
+  <meta charset="utf-8"  />
+  <title>Emerald Ash Borer</title>
+  <link href="jtc_base.css" rel="stylesheet"  />
+  <link href="jtc_layout.css" rel="stylesheet"  />
+  </head>
+
+  <body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href= "jtc_index_txt.html">Home</a></li>
+        <li><a href="jtc_services_txt.html">Services</a></li>
+        <li><a href="careers.html">Careers</a></li>
+        <li><a href="client-promise.html">Client Promise</a></li>
+        <li><a href="emeraldashbore.html">Emerald Ashborer</a></li>
+      </ul>
+    </nav>
+  </header>
+<h1>The Emerald Ash Borer</h1>
+<img src="images/ashborer.jpg" alt="Dude trying to chop off hand">
+<h2>Information</h2>
+<p>
+  Adult Beetles are metallic green and about half an inch long. They originate in Asia and only attack ash trees. They leave a D-shape exit hole when they emerge.
+  Woodpeckers also like them so heavy woodpecker damage may be a sign of them.
+</p>
+<p>
+  <a href="http://www.emeraldashborer.info/">For more information</a>
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PMfORKbEivc" frameborder="0" allowfullscreen></iframe>
+<footer>
+Jedds Tree Care &#9830; 201 Edward Ave. &#9830; Lansing, MI 48930<br />
+<a href="https://www.facebook.com/"><img src="images/facebook.png" alt="facebook" width="50" height="50" /></a>
+<a href="https://twitter.com/?lang=en"><img src="images/twitter.png" alt="twitter" width="50" height="50" /></a>
+<a href="https://www.instagram.com/?hl=en"><img src="images/instagram.png" alt="instagram" width="50" height="50" /></a>
+
+</footer>
+
+</body>
+
+</html>
